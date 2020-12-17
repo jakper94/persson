@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/persson/static/css/main.2b7a6cee.chunk.css",
+    "main.css": "/persson/static/css/main.e0acffaf.chunk.css",
     "main.js": "/persson/static/js/main.5240e88c.chunk.js",
     "main.js.map": "/persson/static/js/main.5240e88c.chunk.js.map",
     "runtime-main.js": "/persson/static/js/runtime-main.c4af5a11.js",
@@ -8,15 +8,15 @@
     "static/js/2.b8beaf57.chunk.js": "/persson/static/js/2.b8beaf57.chunk.js",
     "static/js/2.b8beaf57.chunk.js.map": "/persson/static/js/2.b8beaf57.chunk.js.map",
     "index.html": "/persson/index.html",
-    "precache-manifest.0b653a61868d9e1d36d91f05967af6f9.js": "/persson/precache-manifest.0b653a61868d9e1d36d91f05967af6f9.js",
+    "precache-manifest.1ea7a141582cbc3ff87a476fa0922893.js": "/persson/precache-manifest.1ea7a141582cbc3ff87a476fa0922893.js",
     "service-worker.js": "/persson/service-worker.js",
-    "static/css/main.2b7a6cee.chunk.css.map": "/persson/static/css/main.2b7a6cee.chunk.css.map",
+    "static/css/main.e0acffaf.chunk.css.map": "/persson/static/css/main.e0acffaf.chunk.css.map",
     "static/js/2.b8beaf57.chunk.js.LICENSE.txt": "/persson/static/js/2.b8beaf57.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.c4af5a11.js",
     "static/js/2.b8beaf57.chunk.js",
-    "static/css/main.2b7a6cee.chunk.css",
+    "static/css/main.e0acffaf.chunk.css",
     "static/js/main.5240e88c.chunk.js"
   ]
 }
